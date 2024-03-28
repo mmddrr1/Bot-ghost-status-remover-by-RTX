@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["by g_riz_zly","Bot rp","Merci de nous rejoindre🌇"];
+const statusMessages = ["by g_riz_zly","discord.gg/r8De2KTGaE", "Tech gratos"];
 
 
 let currentIndex = 0;
