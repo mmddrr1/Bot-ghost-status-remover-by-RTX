@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Free tech ","by g_riz_zly",".gg/TSzxpwFSHR","join me"];
+const statusMessages = ["Serveur en dev ","by g_riz_zly",".gg/londonfr","join me"];
 
 
 let currentIndex = 0;
